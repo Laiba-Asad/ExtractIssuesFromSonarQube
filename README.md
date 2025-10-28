@@ -44,9 +44,9 @@ PROJECT_KEY = "FinTechApp"              # Optional: specific project key
 
 
 To find your project key:
-In SonarQube, open your project dashboard — the URL contains the key:
+In SonarQube, open your project dashboard - the URL contains the key:
 
-http://localhost:9000/dashboard?id=FinTechApp
+http://localhost:9000/dashboard?id=ProjectKey
 
 
 Run the script
